@@ -1,0 +1,1 @@
+{"playerName":"Ashen","health":50.0,"mana":20.0,"armor":5.0}
